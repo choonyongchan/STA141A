@@ -1,0 +1,21 @@
+YEAR,COMPARISON,DEMOGRAPHIC,PERCENT,SE,LOWER95,UPPER95
+2015-16,Response Options Modified in 2017-18,Male,16,0.4,15.3,16.7
+2015-16,Response Options Modified in 2017-18,Female,11.2,0.3,10.6,11.8
+2015-16,Response Options Modified in 2017-18,Hispanic,13.5,0.4,12.8,14.2
+2015-16,Response Options Modified in 2017-18,Non-Hispanic White,18.5,0.5,17.5,19.5
+2015-16,Response Options Modified in 2017-18,Non-Hispanic African American/Black,11.7,1.2,9.4,14
+2015-16,Response Options Modified in 2017-18,Non-Hispanic Asian,6.2,0.4,5.3,7.1
+2015-16,Response Options Modified in 2017-18,Non-Hispanic Pacific Islander,13,2.1,9,17.1
+2015-16,Response Options Modified in 2017-18,Non-Hispanic American Indian,24.2,6.1,12.3,36.2
+2015-16,Response Options Modified in 2017-18,Total,13.6,0.2,13.1,14.1
+2017-18,Present,Male,12.2,0.4,11.4,13
+2017-18,Present,Female,11.1,0.4,10.3,11.9
+2017-18,Present,Gender Identified in Another Way,21.8,1,19.7,23.8
+2017-18,Present,Hispanic,10.3,0.4,9.6,11
+2017-18,Present,Non-Hispanic White,18.2,0.6,17,19.4
+2017-18,Present,Non-Hispanic African American/Black,9.9,0.8,8.3,11.5
+2017-18,Present,Non-Hispanic Asian,7,0.4,6.3,7.8
+2017-18,Present,Non-Hispanic Pacific Islander,17.1,1.4,14.2,19.9
+2017-18,Present,Non-Hispanic American Indian,19.7,2.7,14.3,25.1
+2017-18,Present,LGBTQ,15,0.5,14,16.1
+2017-18,Present,Total,12.7,0.4,11.9,13.4
